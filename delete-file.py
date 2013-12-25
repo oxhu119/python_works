@@ -1,5 +1,6 @@
 # -*-coding:utf-8-*-
-
+#20131225 made by oxhu119
+# 这个脚本是为了定时删除导入成功的fsn文件
 import sys
 import os
 import datetime
